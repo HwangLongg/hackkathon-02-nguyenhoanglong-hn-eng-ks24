@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: "Roboto", serif;
+        color: #4B5563;
+    }
+    .header {
+        display: flex;
+        justify-content: space-between;
+        
+        padding: 16px 80px 16px 80px ;
+        width: 1440px;
+        height: 68px;
+    }
+    .ac {
+        display: flex;
+        width: 554px;
+        height: 36px;
+        gap: 24px;
+        align-items: center;
+
+    }
+    .ab {
+        display: flex;
+        gap: 16px;
+        width: 188px;
+        height: 36px;
+    }
+    .about {
+        display: flex;
+        justify-content: space-between;
+        padding: 96px 80px 96px 80px ;
+    }
+    .ad {
+        width: 768px;
+        height: 360px;
+        gap: 48px;
+    }
+    .img {
+        width: 360px;
+        height: 320px;
+    }
+    .skills {
+        padding: 32px 32px;
+        gap: 48px;
+    }
+    .aq {
+        text-align: center;
+
+    }
+    .ap {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .az {
+        width: 70px;
+        height: 64px;
+    }
+    .imgg {
+        width: 480px;
+        height: 384px;
+    }
+    .work {
+        width: 1280px;
+        height: 1128px;
+        padding: 32px;
+        gap: 48px;
+
+    }
+    .imz {
+        width: 576px ;
+        height: 480px;
+        background-color: #F3F4F6;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .aka {
+        display: flex;
+        padding: 48px;
+        gap: 24px;
+    }
+    .zz {
+        width: 576px;
+        height: 480px;
+    }
+    .zi {
+        display: flex;
+        justify-content: space-between;
+    }
+    .za {
+        background-color: #F3F4F6;
+        border-radius: 5px;
+        text-align: center;
+        padding: 4px 20px 4px 20px;
+    }
+    .icon {
+        width: 36px;
+        height: 36px;
+    }
+    .footer {
+        width: 1440px;
+        height: 68px;
+       
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cq {
+        display: flex;
+        text-decoration: none;
+        color: #4B5563;
+       
+
+    }
+    .di {
+        background-color: #111827;
+        width: 130px;
+        height: 30px;
+        padding: 6px 16px 6px 16px;
+        border-radius: 5px;
+    }
+    .iii {
+        color: white ;
+    }
+    .zii {
+        width: 36px;
+        height: 36px;
+    }
+    .adi {
+        display: flex;
+        width: 200px;
+        height: 24px;
+        gap: 11px;
+        text-align: center;
+    }
+    .iicon {
+        width: 24px;
+        height: 24px;
+    }
+    .ft {
+        padding: 4px 20px 4px 20px;
+        width: 78px;
+        height: 28px;
+        margin-left: 620px;
+        
+        background-color: #E5E7EB;
+        border-radius: 5px;
+    }
